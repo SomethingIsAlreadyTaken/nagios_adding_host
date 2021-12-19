@@ -1,0 +1,5 @@
+define command{
+        command_name    XXXX
+        command_line    /usr/local/nagios/libexec/check_nrpe -H YYYY-noc.myrig.server -c XXXX -t 30
+}
+

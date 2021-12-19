@@ -1,0 +1,1 @@
+command[XXXX]=/usr/local/nagios/libexec/check_ping -H XXXX -w 30,50% -c 60,75% -p 4 -t 60

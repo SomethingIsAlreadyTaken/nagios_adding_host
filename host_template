@@ -1,0 +1,6 @@
+define service {
+    use                     generic-service           
+    host_name               YYYY-noc
+    service_description     XXXX
+    check_command           XXXX
+}
